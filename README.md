@@ -1,6 +1,6 @@
-##Demo2
+Demo2
 
 SK
 
-##Local Development
+Local Development
 1. open index.html in your browser
